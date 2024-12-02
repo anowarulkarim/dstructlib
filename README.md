@@ -33,4 +33,4 @@ This package is designed for developers, students, and anyone learning about dat
 You can install the package locally or through PyPI (if uploaded):
 
 ```bash
-pip install dstructlib
+pip install dstructslib
